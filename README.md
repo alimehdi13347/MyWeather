@@ -16,7 +16,7 @@ A responsive React-based weather application that fetches real-time data using t
 
 ## 📸 Preview
 
-![Home Screenshot](./assets/home.png)
+![Home Screenshot](./src/assets/home.png)
 
 ---
 
